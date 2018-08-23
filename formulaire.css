@@ -1,0 +1,36 @@
+body{
+    font-family:sans-serif;
+    background-color:#473c51;
+    color: white;
+    font-size:18px;
+    display:flex;
+    justify-content:center;
+    margin:30px 0px;
+  }
+  .formulaire{
+    display:flex;
+    flex-direction:column;
+    width:60%;
+    
+  }
+  .input-item{
+    padding:10px;
+    border-radius:5px;
+    background-color:#2e2c3c;
+    border: none;
+    margin-top:15px;
+    color:white;
+    font-size:15px;
+    margin-bottom:15px;
+  
+  }
+  .button-item{
+    padding:10px;
+    border-radius:5px;
+    background-color:#2e2c3c;
+    border: none;
+    color:white;
+    font-size:15px;
+    margin-bottom:15px;
+  }
+  
